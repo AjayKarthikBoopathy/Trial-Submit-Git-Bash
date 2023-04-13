@@ -200,6 +200,7 @@ document.querySelector("#pg3").addEventListener("click", async () => gotoPage(3)
 // document.querySelector("#pg4").addEventListener("click", () => gotoPage(4), false);
 // document.querySelector("#pg5").addEventListener("click", () => gotoPage(5), false);
 
-//Dummy
-// document.querySelector("#pg4").addEventListener("click", () => gotoPage(4), false);
-// document.querySelector("#pg5").addEventListener("click", () => gotoPage(5), false);
+//Dummy 
+//Trial
+
+// document.querySelector("#pg5").addEventListener("click", () => gotoPage(5),);
